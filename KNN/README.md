@@ -2,7 +2,7 @@
 
 KNN算法
 
-**部分基于AI完成，不过认真学习并检查过**
+**部分基于AI完成，不过以认真学习并检查过**
 
 ---
 
@@ -56,7 +56,7 @@ python visualize.py
 
 图中可以看出区分度还是比较大的
 
-![images1](images\iris_features_pairplot.png)
+![images1](./images/iris_features_pairplot.png)
 
 ### 第一步：寻找最佳 K 值并保存模型
 
